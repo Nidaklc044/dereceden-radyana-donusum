@@ -1,0 +1,15 @@
+C:\Users\Nida\source\repos\dereceradyandonusumleri\dereceradyandonusumleri\bin\Debug\net6.0\dereceradyandonusumleri.exe
+C:\Users\Nida\source\repos\dereceradyandonusumleri\dereceradyandonusumleri\bin\Debug\net6.0\dereceradyandonusumleri.deps.json
+C:\Users\Nida\source\repos\dereceradyandonusumleri\dereceradyandonusumleri\bin\Debug\net6.0\dereceradyandonusumleri.runtimeconfig.json
+C:\Users\Nida\source\repos\dereceradyandonusumleri\dereceradyandonusumleri\bin\Debug\net6.0\dereceradyandonusumleri.dll
+C:\Users\Nida\source\repos\dereceradyandonusumleri\dereceradyandonusumleri\bin\Debug\net6.0\dereceradyandonusumleri.pdb
+C:\Users\Nida\source\repos\dereceradyandonusumleri\dereceradyandonusumleri\obj\Debug\net6.0\dereceradyandonusumleri.csproj.AssemblyReference.cache
+C:\Users\Nida\source\repos\dereceradyandonusumleri\dereceradyandonusumleri\obj\Debug\net6.0\dereceradyandonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nida\source\repos\dereceradyandonusumleri\dereceradyandonusumleri\obj\Debug\net6.0\dereceradyandonusumleri.AssemblyInfoInputs.cache
+C:\Users\Nida\source\repos\dereceradyandonusumleri\dereceradyandonusumleri\obj\Debug\net6.0\dereceradyandonusumleri.AssemblyInfo.cs
+C:\Users\Nida\source\repos\dereceradyandonusumleri\dereceradyandonusumleri\obj\Debug\net6.0\dereceradyandonusumleri.csproj.CoreCompileInputs.cache
+C:\Users\Nida\source\repos\dereceradyandonusumleri\dereceradyandonusumleri\obj\Debug\net6.0\dereceradyandonusumleri.dll
+C:\Users\Nida\source\repos\dereceradyandonusumleri\dereceradyandonusumleri\obj\Debug\net6.0\refint\dereceradyandonusumleri.dll
+C:\Users\Nida\source\repos\dereceradyandonusumleri\dereceradyandonusumleri\obj\Debug\net6.0\dereceradyandonusumleri.pdb
+C:\Users\Nida\source\repos\dereceradyandonusumleri\dereceradyandonusumleri\obj\Debug\net6.0\dereceradyandonusumleri.genruntimeconfig.cache
+C:\Users\Nida\source\repos\dereceradyandonusumleri\dereceradyandonusumleri\obj\Debug\net6.0\ref\dereceradyandonusumleri.dll
